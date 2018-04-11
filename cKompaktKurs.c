@@ -3,7 +3,7 @@
 #include "aufgabe2.h"
 
 int main(int argc, char** argv) {
-	aufgabe2_2(argc, argv);
+    aufgabe2_2(argc, argv);
 
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
